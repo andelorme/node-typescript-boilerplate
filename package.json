@@ -1,0 +1,28 @@
+{
+  "name": "typescript-boilerplate",
+  "version": "0.0.1",
+  "description": "NodeJS boilerplate with nodemon, Jest, TypeScript, ESLint & Prettier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andelorme/node-typescript-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nodemon",
+    "jest",
+    "typescript",
+    "eslint",
+    "prettier",
+    "boilerplate"
+  ],
+  "author": "Andre Luis Delorme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andelorme/node-typescript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/andelorme/node-typescript-boilerplate#readme"
+}

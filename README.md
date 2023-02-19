@@ -11,3 +11,13 @@ npx tsc --init --rootDir src --outDir dist \
 
 npm install --save-dev rimraf
 ```
+
+```
+npm install --save-dev eslint
+
+npm install --save-dev --save-exact prettier
+
+npm install --save-dev prettier-eslint
+
+npm init @eslint/config
+```

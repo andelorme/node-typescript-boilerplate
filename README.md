@@ -21,3 +21,14 @@ npm install --save-dev prettier-eslint
 
 npm init @eslint/config
 ```
+
+```
+npm install --save-dev jest
+
+npm install --save-dev babel-jest @babel/core @babel/preset-env
+
+npm install --save-dev @babel/preset-typescript
+
+npm install --save-dev @jest/globals
+
+```

@@ -1,5 +1,6 @@
 # node-typescript-boilerplate
 
+#### Install typescript:
 ```
 npm install typescript --save-dev
 
@@ -11,6 +12,7 @@ npx tsc --init --rootDir src --outDir dist \
 
 npm install --save-dev rimraf
 ```
+#### Install eslint + prettier:
 
 ```
 npm install --save-dev eslint
@@ -21,7 +23,7 @@ npm install --save-dev prettier-eslint
 
 npm init @eslint/config
 ```
-
+#### Install babel + jest:
 ```
 npm install --save-dev jest
 
@@ -31,4 +33,8 @@ npm install --save-dev @babel/preset-typescript
 
 npm install --save-dev @jest/globals
 
+```
+#### Install nodemon:
+```
+npm install --save-dev ts-node nodemon
 ```
